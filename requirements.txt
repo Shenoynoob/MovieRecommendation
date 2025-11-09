@@ -1,0 +1,14 @@
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=0.24.0
+nltk>=3.6.0
+streamlit>=1.2.0
+jupyterlab>=3.0.0
+
+# Optional for preprocessing and visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# If working with text processing enhancements
+beautifulsoup4>=4.9.0
+requests>=2.25.0
